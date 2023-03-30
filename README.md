@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![giphy (1)](https://media.giphy.com/media/QLKSt3wQqlj7a/giphy.gif)
 <!--
 **tigeraxel/tigeraxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
